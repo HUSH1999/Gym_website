@@ -7,8 +7,8 @@ A modern, responsive gym website built using **HTML**, **CSS**, and **JavaScript
 
 ## 🚀 Live Demo
 
-[View Website](https://yourusername.github.io/gym-website/)  
-*(Replace with your GitHub Pages link)*
+[🌐View Website](https://hush1999.github.io/Gym_website/)
+
 
 ## 🛠️ Tech Stack
 
@@ -21,8 +21,7 @@ A modern, responsive gym website built using **HTML**, **CSS**, and **JavaScript
 - Clean and responsive design  
 - Animated navigation menu  
 - Class schedule section  
-- Trainer/team section  
-- Contact form with basic validation
+- Trainer/team section
 
 - ## 🧭 How to Use
 
